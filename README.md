@@ -1,4 +1,4 @@
-# GitHub Achievement -  Lab
+# GitHub Achievement - Lab
 
 A beginner-friendly open-source project for learning GitHub workflows.
 
